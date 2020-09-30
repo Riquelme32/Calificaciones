@@ -1,6 +1,6 @@
 package calificaciones;
 import java.util.Scanner;
-import Logica.Metodos;
+import Main.Metodos;
 //AME RIQUELME
 
 public class Calificaciones
